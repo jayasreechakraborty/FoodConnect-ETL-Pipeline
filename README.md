@@ -247,3 +247,9 @@ Passionate about Data Analytics, Business Intelligence, and AI-driven solutions.
 ---
 
 ⭐ **If you found this project useful, consider giving it a star!**
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
